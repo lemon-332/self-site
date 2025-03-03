@@ -19,5 +19,3 @@ features:
     emoji: 🚀
     description: Put ! description here
 ---
-
-my-site
